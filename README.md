@@ -1,5 +1,3 @@
-# 👋 Hey there, I'm **Harsh S. Gautam**!
-
 ## 🚀 About Me
 I'm a **Computer Science Master's student** at Stevens Institute of Technology, driven by a passion for **systems programming** and **efficient computing**. Whether it's designing algorithms, building robust backend systems, or diving deep into **distributed computing**, I'm always looking for new ways to challenge myself and grow as a developer.
 
@@ -19,8 +17,6 @@ Tools & Frameworks:
 - **🔑 Authentication API**: A REST API built with Node.js, TypeScript, and JWT for secure user management.
 
 Check out my repos to see these in action! 🚀
-
----
 
 ## 👨‍🏫 Teaching & Mentorship
 I'm also a **Course Assistant** for **CS 515: Introduction to Computer Science**, where I help students dive into Python, recursion, object-oriented programming, and more.

@@ -12,7 +12,7 @@ Tools & Frameworks:
 ```
 
 ## 🧑‍💻 What I've Built
-- **⚙️ my git**: A custom version control system in **Rust**, replicating core Git commands like `init`, `add`, `commit`, and `log`.
+- **⚙️ my git**: A custom version control system in **Rust**, replicating core Git commands like `init`, `add`, `commit`, `log` and `reset`.
 - **🛒 E-commerce Platform**: A full-fledged system with cart, user authentication, and product management.  
 - **🔑 Authentication API**: A REST API built with Node.js, TypeScript, and JWT for secure user management.
 

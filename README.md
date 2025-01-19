@@ -33,7 +33,7 @@ I'm a **Computer Science Master's student** at Stevens Institute of Technology, 
 Check out my repos to see these in action! 🚀
 
 ## 👨‍🏫 Teaching & Mentorship
-I'm also a **Course Assistant** for **CS 515: Introduction to Computer Science**, where I help students dive into Python, recursion, object-oriented programming, and more.
+I'm also a **Course Assistant** for **CS 515: Introduction to Computer Science** and **CS 570: Data-Structure and Algorithms** , where I help students dive into Python, Java , recursion, object-oriented programming, and more.
 
 ## 📫 Let's Connect
 - **Email**: hgautam@stevens.edu 

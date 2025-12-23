@@ -1,67 +1,79 @@
-# 👋 Hey there, I'm Harsh Gautam
+# Hi there, I'm Harsh Gautam 👋
 
-I'm a **Master’s student in Computer Science** at Stevens Institute of Technology, passionate about **systems programming**, **backend development**, and **efficient computing**. I enjoy solving complex problems — whether it's building performant infrastructure, designing distributed systems, or guiding students through core computer science concepts.
-
----
-
-## 🚀 Tech Stack & Tools
-
-**Languages**  
-![Rust](https://img.shields.io/badge/-Rust-3CB371?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-3CB371?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-3CB371?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-3CB371?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3CB371?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3CB371?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3CB371?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Web & Backend**  
-![React](https://img.shields.io/badge/-React-3CB371?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-3CB371?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-3CB371?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-3CB371?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-3CB371?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3CB371?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-3CB371?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-3CB371?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-3CB371?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-3CB371?style=for-the-badge&logo=linux&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-3CB371?style=for-the-badge&logo=vim&logoColor=white)
+I am an **AI Research Engineer** specializing in **Neural Architectural Innovation** and **Model Efficiency**. My work focuses on re-engineering attention mechanisms to overcome quadratic complexity and bridging the gap between theoretical research and resource-constrained inference.
 
 ---
 
-## 🧠 Projects
+### 🚀 Technical Focus
 
-- **⚙️ MyGit** – Git-like version control system in **Rust**, supporting commands like `init`, `add`, `commit`, `log`, and `reset`.
-- **🛒 ShopEasy** – A full-stack e-commerce platform with cart management, authentication, and payment integration.
-- **🔐 Auth API** – RESTful authentication service with **JWT**, built using **Node.js**, **TypeScript**, and **MongoDB**.
+* **Architectural Innovation**: Expert in optimizing attention mechanisms, recently achieving a reduction in computational complexity from  to  for Vision Transformers.
 
-Check out my pinned repos for code, docs, and demos! 📂
 
----
+* **Model Efficiency**: Proven track record in model compression, including reducing parameters by 99% while maintaining competitive performance.
 
-## 👨‍🏫 Teaching & Mentorship
 
-I’m currently a **Teaching Assistant** for:
+* **Sequence Modeling**: Deep technical focus on **State Space Models (SSMs/Mamba)** and **Transformers** for long-sequence tasks.
 
-- **CS 515 – Introduction to Computer Science**  
-  Teaching Python, recursion, OOP, and algorithmic thinking.
-  
-- **CS 570 – Data Structures and Algorithms**  
-  Guiding students through core Java structures, algorithm design, and problem-solving techniques.
+
+* **Generative AI**: Experience optimizing diffusion-based denoising schedules to reduce inference time by 40%.
+
+
 
 ---
 
-## 📫 Connect with Me
+### 🛠️ Featured Projects
 
-📧 hgautam@stevens.edu  
-🔗 [linkedin.com/in/harsh04gautam](https://www.linkedin.com/in/harsh04gautam/)  
-🐙 [github.com/Harsh04Gautam](https://github.com/Harsh04Gautam)
+**Decoder-only Transformer Implementation (PyTorch)** 
+
+* Built a **125M-parameter** Transformer from scratch featuring multi-head self-attention and causal masking.
+
+
+* Implemented **KV-caching**, resulting in a **2x increase** in tokens-per-second during local testing.
+
+
+* Optimized training using AdamW and custom learning rate schedulers to ensure stable convergence.
+
+
+
+**Live Multimodal TTS Inference Pipeline** 
+
+* Integrated **Kokoro TTS** with WebSockets to achieve a Time-to-First-Chunk (TTFC) of **<150ms**.
+
+
+* Developed a synchronization algorithm that reduced UI reflows by **65%** during dynamic text highlighting.
+
+
+* Optimized for **CPU-only environments**, reducing peak memory overhead by **25%**.
+
+
 
 ---
 
-🧠 Always curious. Always building.
+### 🎓 Education & Research
+
+* **M.S. in Computer Science** | Stevens Institute of Technology (GPA: 3.95).
+
+
+* **Graduate Research Assistant** | Stevens Institute of Technology.
+
+
+* Identified a **3x throughput improvement** in sequence lengths exceeding 2k tokens when using SSMs vs. Transformers.
+
+
+* Engineered a Sparse Attention mechanism that achieved **80% accuracy** on CIFAR-100 with a 99% parameter reduction.
+
+
+
+
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn**: [Harsh Gautam](https://www.google.com/search?q=https://www.linkedin.com/in/harsh-gautam) 
+
+
+* **Email**: [harsh.gautam.career@gmail.com](mailto:harsh.gautam.career@gmail.com) 
+
+
+* **GitHub**: [github.com/harsh-gautam](https://github.com/harsh-gautam) 

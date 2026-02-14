@@ -4,7 +4,7 @@ I am an **AI Research Engineer** specializing in **Neural Architectural Innovati
 
 ---
 
-### 🚀 Technical Focus
+### Technical Focus
 
 * **Architectural Innovation**: Expert in optimizing attention mechanisms, recently achieving a reduction in computational complexity from  to  for Vision Transformers.
 
@@ -21,7 +21,7 @@ I am an **AI Research Engineer** specializing in **Neural Architectural Innovati
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 **Decoder-only Transformer Implementation (PyTorch)** 
 
@@ -49,7 +49,7 @@ I am an **AI Research Engineer** specializing in **Neural Architectural Innovati
 
 ---
 
-### 🎓 Education & Research
+### Education & Research
 
 * **M.S. in Computer Science** | Stevens Institute of Technology (GPA: 3.95).
 
